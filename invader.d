@@ -1,0 +1,1 @@
+invader.o: invader.c
